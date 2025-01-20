@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ## 📌 Projects
 
-🔹 **[Computer Vision](https://github.com/haladesigns/ComputerVision)** - Age Verification with Computer Vision
-🔹 **[Time Series](https://github.com/haladesigns/TimeSeries)** - Time Series Forecasting
-🔹 **[Machine Learning for Text](https://github.com/haladesigns/Machine-Learning-for-Text)** - Movie Review Sentiment Analysis
+🔹 **[Computer Vision](https://github.com/haladesigns/ComputerVision)** - Age Verification with Computer Vision 
+🔹 **[Time Series](https://github.com/haladesigns/TimeSeries)** - Time Series Forecasting 
+🔹 **[Machine Learning for Text](https://github.com/haladesigns/Machine-Learning-for-Text)** - Movie Review Sentiment Analysis 
 
 ---
 
