@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 
 ## 📫 Connect with Me
 
-🌐 **[Portfolio](https://yourwebsite.com)**  
-💼 **[LinkedIn](https://haladesigns.github.io/portfolio/)**  
+🌐 **[Portfolio](https://haladesigns.github.io/portfolio/)**  
+💼 **[LinkedIn](https://linkedin.com/in/francishala)**  
 📧 **hala.francis@gmail.com**  
 
 ---
