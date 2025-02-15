@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - **Databases:** SQL Server, PostgreSQL, MySQL, Oracle
 - **Tools:** Git, Docker, Visual Studio, PyCharm, Checkmarx, Fiddler, Postman
 - **Security & API Management:** OWASP, API Security, Okta, Checkmarx, XSS/SQL Injection Prevention
-- **Data Science & ML:** Pandas, NumPy, SciKit-Learn, TensorFlow, Matplotlib, D3.js, Tableau
+- **Data Science & ML:** Pandas, NumPy, SciKit-Learn, TensorFlow, Bokeh, Matplotlib, D3.js, Tableau
 
 ---
 
